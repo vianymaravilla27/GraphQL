@@ -1,0 +1,21 @@
+lenguaje de consultas API
+
+exponer datos de servidor a un cliente
+
+graphQL  
+
+1.-crear un servidor
+2.- se integra con react
+3.- apollo graphQL
+4.- babel js , transpilador de js , no soporta importar modulos.
+5.-
+
+npm install --save-dev @babel/core @babel/cli @babel/preset-env
+npm install --save @babel/polyfill
+
+Npm install express express-graphql graphqL
+6.-configurar entorno de javascript moderno
+7.- consultar con graql tools-la union de resolver y schema
+8.- usar mutation
+9.- usar mongoose
+10.-instalar mongodb
